@@ -1,0 +1,21 @@
+{
+    "mcpServers": {
+      "Databricks-server": {
+        "command": "PATH_OF_UV_PACKAGE",
+        "args": [
+          "run",
+          "--with",
+          "mcp[cli]",
+          "--with",
+          "requests",
+          "mcp",
+          "run",
+          "ABSOLUTE_PATH_OF_main.py" 
+        ],
+        "env": {
+          "DATABRICKS_INSTANCE":"YOUR_DATABRICKS_INSTANCE",
+          "DATABRICKS_TOKEN":"YOUR_DATABRICKS_TOKEN"
+        }
+      }
+    }
+}
