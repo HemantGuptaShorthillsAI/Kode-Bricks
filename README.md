@@ -1,18 +1,18 @@
-# KodeGenie
+# KodeBricks
 
 ## Setup Guide
 
-- Copy [script file](script_file/install_kodegenie.sh) in a local folder.
+- Copy [script file](script_file/install_kodebricks.sh) in a local folder.
 - Open the terminal and move to that folder where `.sh` file is copied.
-- run the command `chmod +x install_kodegenie.sh`.
-- Then run the script file by running command `./install_kodegenie.sh`
+- run the command `chmod +x install_kodebricks.sh`.
+- Then run the script file by running command `./install_kodebricks.sh`
 
 Now Extension will be downloaded and a `main.py` and `mcp_config.json` file will be created.
 
-## KodeGenie setup
+## KodeBricks setup
 - Open the extension and add suitable LLM API key
 
-## Setup MCP on KodeGenie
+## Setup MCP on KodeBricks
 
 - Click on **MCP server** inside extension  
 ![Screenshot](assets/reference_images/2.png)
