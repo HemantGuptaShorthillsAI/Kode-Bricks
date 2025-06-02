@@ -15,13 +15,13 @@ Now Extension will be downloaded and a `main.py` and `mcp_config.json` file will
 ## Setup MCP on KodeBricks
 
 - Click on **MCP server** inside extension  
-![Screenshot](assets/reference_images/2.png)
+![Screenshot](assets/reference_images/1.png)
 
 - Click on **Edit Global MCP**  
-![Screenshot](assets/reference_images/3.png)
+![Screenshot](assets/reference_images/2.png)
 
 - A `mcp_settings.json` file will open, in that paste content of `mcp_config.json` created.  
-![Screenshot](assets/reference_images/4.png)
+![Screenshot](assets/reference_images/3.png)
 
 - Inside `mcp_settings.json`:
   - In `env`, write your Databricks credentials
@@ -29,4 +29,4 @@ Now Extension will be downloaded and a `main.py` and `mcp_config.json` file will
 - Save this JSON file
 
 - MCP is connected  
-![Screenshot](assets/reference_images/5.png)
+![Screenshot](assets/reference_images/4.png)
