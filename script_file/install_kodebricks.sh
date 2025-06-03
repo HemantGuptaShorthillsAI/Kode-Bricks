@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # ---------- CONFIG ----------
-REPO_MAIN_URL="https://raw.githubusercontent.com/HemantGuptaShorthillsAI/KodeBricks/main/MCP-Servers/main.py"
-REPO_REQ_URL="https://raw.githubusercontent.com/HemantGuptaShorthillsAI/KodeBricks/main/MCP-Servers/requirements.txt"
+REPO_MAIN_URL="https://raw.githubusercontent.com/HemantGuptaShorthillsAI/Kode-Bricks/main/MCP-Servers/main.py"
+REPO_REQ_URL="https://raw.githubusercontent.com/HemantGuptaShorthillsAI/Kode-Bricks/main/MCP-Servers/requirements.txt"
 VSIX_URL="https://github.com/HemantGuptaShorthillsAI/KodeBricks/raw/main/Extension-KodeBricks/KodeBricks-3.18.4.vsix"
 MAIN_FILE="main.py"
 REQUIREMENTS_FILE="requirements.txt"
