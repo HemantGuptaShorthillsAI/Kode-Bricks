@@ -7,7 +7,8 @@
 - run the command `chmod +x install_kodebricks.sh`.
 - Then run the script file by running command `./install_kodebricks.sh`
 
-Now Extension will be downloaded and a `main.py` and `mcp_config.json` file will be created.
+Now Extension will be downloaded and a `main.py`, `mcp_config.json` and `KodeBricks-3.18.4.vsix` file will be created.
+Incase the extension is not visible, right click on the `KodeBricks-3.18.4.vsix` in vs code and choose option `install extension vsix`
 
 ## KodeBricks setup
 - Open the extension and add suitable LLM API key
